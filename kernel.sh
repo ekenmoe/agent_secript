@@ -8,3 +8,6 @@ fi
 lscpu
 lsbk
 uname -r
+iostat
+free -m
+
